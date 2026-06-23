@@ -2,3 +2,5 @@
 <hr>
 <h3>REPOSITÓRIO TESTE!</h3>
 <p>Eu acho que esse repositório ta muito é massa, né, verdade</p>
+<hr>
+<img width="250" height="343" alt="ShadowTheHedgehogSA2" src="https://github.com/user-attachments/assets/319bf47a-614d-4aaa-a984-f151a662e082" />
